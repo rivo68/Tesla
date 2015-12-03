@@ -3,12 +3,12 @@
 <channels>
 
 <channel>
-	<name>[COLOR=][B]Películas[/B][/COLOR]</name>
-		<thumbnail>http://ignoreme</thumbnail>
-			<fanart>http://ignoreme</fanart>
+	<name>[COLOR=][B]Todo el catálogo[/B][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/catalog%20thumbnail.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/catalogo%20fanart.jpg</fanart>
 			<info>[B][/B]</info>
 		<link>http://ignoreme</link>
-	<externallink>http://ignoreme</externallink>
+	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/AllPel%C3%ADculas.m3u</externallink>
 </channel>
 
 <channel>
