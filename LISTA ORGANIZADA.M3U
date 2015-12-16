@@ -1191,7 +1191,7 @@ PELICULAS
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="",QUEEN HUNGARIAN RHAPSODY
 http://www.spruto.tv/get_file/1/3470299419065d8003e353fa114f9a79/4000/4556/4556.mp4
 
-#EXTINF:-1 tvg-logo="",10000 a.C.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/10000a.C..jpg",10000 a.C.
 http://www.spruto.tv/get_file/5/47d3ed4e8386a61d4911809f7a0b9109/108000/108936/108936.mp4
 
 #EXTINF:-1 tvg-logo="",30 días de oscuridad
