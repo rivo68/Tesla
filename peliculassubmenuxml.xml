@@ -12,12 +12,12 @@
 </channel>
 
 <channel>
-	<name>[COLOR=][B]Todas las Películas[/B][/COLOR]</name>
+	<name>[COLOR=][B]ReciÃ©n Agregadas[/B][/COLOR]</name>
 		<thumbnail>http://ignoreme</thumbnail>
 			<fanart>http://ignoreme</fanart>
 			<info>[B][/B]</info>
 		<link>http://ignoreme</link>
-	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/AllPel%C3%ADculas.xml</externallink>
+	<externallink></externallink>
 </channel>
 
 <channel>
