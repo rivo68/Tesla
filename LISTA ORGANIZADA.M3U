@@ -1512,6 +1512,9 @@ http://www.spruto.tv/get_file/8/08d10368376976315d7bff217f8d400b/123000/123801/1
 #EXTINF:-1 tvg-logo="",Chucky 5 El hijo de Chucky
 http://www.spruto.tv/get_file/6/4c2af7c3183e4c88b2feb17493910cf7/128000/128304/128304.mp4
 
+#EXTINF:-1 tvg-logo="",Chucky 6 La maldicion de Chucky
+http://www.spruto.tv/get_file/8/1b663b5567f01e97bc07da853a3436ab/123000/123800/123800.mp4
+
 #EXTINF:-1 tvg-logo="",Colmillo Blanco
 http://www.spruto.tv/get_file/7/bfb3ca9937f80a9a99a69e670cc1bdf7/78000/78046/78046.mp4
 
@@ -2001,16 +2004,11 @@ http://www.spruto.tv/get_file/7/208da846b2d5dc686ed2aa5d06544302/77000/77738/777
 #EXTINF:-1 tvg-logo="",La extraña vida de Timothy Green
 http://www.spruto.tv/get_file/7/9215f12aa0f00b8450d9706c9512c946/76000/76922/76922.mp4
 
-
-
 #EXTINF:-1 tvg-logo="",La familia Belier
 http://www.spruto.tv/get_file/5/8482fe3ac7d43d34b62ea8a0f6732482/119000/119843/119843.mp4
 
 #EXTINF:-1 tvg-logo="",La hija de Moctezuma
 http://www.spruto.tv/get_file/5/6ec503588dbca389fa55ba83692be7b1/115000/115820/115820.mp4
-
-#EXTINF:-1 tvg-logo="",La hija de Robin Hood
-http://www.spruto.tv/get_file/7/024e1cd446a5b0b8c1054d4f5a2f70c6/76000/76926/76926.mp4
 
 #EXTINF:-1 tvg-logo="",La Horca
 http://www.spruto.tv/get_file/4/2cbc720fd202f30b00f472ed67e36c71/149000/149082/149082.mp4
@@ -2020,9 +2018,6 @@ http://www.spruto.tv/get_file/7/9d9c949a8735bc7da3b9f51210a54cfb/77000/77011/770
 
 #EXTINF:-1 tvg-logo="",La leyenda del tesoro perdido 2
 http://www.spruto.tv/get_file/7/0b78b500d48aeb8d20f6576b6c5d6f56/77000/77012/77012.mp4
-
-#EXTINF:-1 tvg-logo="",La maldicion de Chucky
-http://www.spruto.tv/get_file/8/1b663b5567f01e97bc07da853a3436ab/123000/123800/123800.mp4
 
 #EXTINF:-1 tvg-logo="",La maldicion de las brujas
 http://www.spruto.tv/get_file/5/8e5187ef58bde7da4a1a1bc7dca3eb1f/109000/109591/109591.mp4
@@ -2117,16 +2112,13 @@ http://www.spruto.tv/get_file/8/736f1f465c3ef0d36e2d2c81878b22e9/120000/120531/1
 #EXTINF:-1 tvg-logo="",Los Guerreros
 http://www.spruto.tv/get_file/6/d9d26712bd7fa4e3b46676fbe718c237/128000/128651/128651.mp4
 
-#EXTINF:-1 tvg-logo="",Los fantasmas de Scrooge
-http://www.spruto.tv/get_file/7/2e4d8a8abca3f5401be7e0de405e6280/76000/76385/76385.mp4
-
-#EXTINF:-1 tvg-logo="",Los Indestuctribles
+#EXTINF:-1 tvg-logo="",Los Indestructibles
 http://www.spruto.tv/get_file/5/68918783d0ef282bad20006c45809328/107000/107983/107983.mp4
 
-#EXTINF:-1 tvg-logo="",Los Indestuctribles 2
+#EXTINF:-1 tvg-logo="",Los Indestructibles 2
 http://www.spruto.tv/get_file/5/db32d118ced6947e7619cf10fa033d19/107000/107749/107749.mp4
 
-#EXTINF:-1 tvg-logo="",Los Indestuctribles 3
+#EXTINF:-1 tvg-logo="",Los Indesrtuctibles 3
 http://www.spruto.tv/get_file/1/adee92811357b0acd345712fda254260/88000/88265/88265.mp4
 
 #EXTINF:-1 tvg-logo="",Los Juegos del Hambre
@@ -2184,7 +2176,7 @@ http://www.spruto.tv/get_file/7/1bcbea4a5db48c5fd04cf49499253a1d/76000/76390/763
 #EXTINF:-1 tvg-logo="",Megamente
 http://www.spruto.tv/get_file/7/b0ef3e0a64ba87a3110fd8424e9bc709/78000/78295/78295.mp4
 
-#EXTINF:-1 tvg-logo="",Mete Gol
+#EXTINF:-1 tvg-logo="",MeteGol
 http://www.spruto.tv/get_file/7/4dfaa78a382f1e2e8f54e1331bda526d/78000/78264/78264.mp4
 
 #EXTINF:-1 tvg-logo="",Meñique y el espejo mágico
@@ -2271,7 +2263,7 @@ http://www.spruto.tv/get_file/7/04884bf88a6dfc3d1700aae3281acb4c/78000/78201/782
 #EXTINF:-1 tvg-logo="",Perdiendo el norte
 http://www.spruto.tv/get_file/5/6a25b4ae49ab17330c8f5a55e6448f97/118000/118625/118625.mp4
 
-#EXTINF:-1 tvg-logo="",Pesos Completos
+#EXTINF:-1 tvg-logo="",Pesos Pesados
 http://www.spruto.tv/get_file/7/15a864e613438b56a557092fc71aa3e3/76000/76932/76932.mp4
 
 #EXTINF:-1 tvg-logo="",Peter Pan
@@ -2310,19 +2302,19 @@ http://www.spruto.tv/get_file/5/dc33a579cf7862835c68ee95cd251859/117000/117056/1
 #EXTINF:-1 tvg-logo="",Policias y Ratones
 http://www.spruto.tv/get_file/7/2a018bd097c4399f2e1c9d3e695064d8/77000/77007/77007.mp4
 
-#EXTINF:-1 tvg-logo="",Prometeus
+#EXTINF:-1 tvg-logo="",Prometheus
 http://www.spruto.tv/get_file/5/adeb42b3291f08b65862df172164222b/115000/115107/115107.mp4
 
 #EXTINF:-1 tvg-logo="",Proyecto X
 http://www.spruto.tv/get_file/5/8766d6452f32c2fbe34385a9963a56b3/108000/108058/108058.mp4
 
-#EXTINF:-1 tvg-logo="",Que Paso ayer
+#EXTINF:-1 tvg-logo="",Que Pasó ayer
 http://www.spruto.tv/get_file/6/290775937e81622e2ae2d7852f48d367/128000/128469/128469.mp4
 
-#EXTINF:-1 tvg-logo="",Que Paso ayer 2
+#EXTINF:-1 tvg-logo="",Que Pasó ayer 2
 http://www.spruto.tv/get_file/6/7ae80fbdaf2bcdcb50437dce5be991b0/126000/126155/126155.mp4
 
-#EXTINF:-1 tvg-logo="",Que Paso ayer 3
+#EXTINF:-1 tvg-logo="",Que Pasó ayer 3
 http://www.spruto.tv/get_file/6/fc001735043f7dba94cbaa1144516538/128000/128468/128468.mp4
 
 #EXTINF:-1 tvg-logo="",Ralph El demoledor
@@ -2580,9 +2572,6 @@ http://www.spruto.tv/get_file/7/09188408daf136872a4a4ea3ca0d61f9/78000/78189/781
 #EXTINF:-1 tvg-logo="",Transformers 3 El lado oscuro de la luna
 http://www.spruto.tv/get_file/7/d218de625ec6e749a4ffc5b2865b6326/78000/78188/78188.mp4
 
-#EXTINF:-1 tvg-logo="",Tras las lineas enemigas Comando de elite
-http://www.spruto.tv/get_file/8/e40c1a1b3ba612f01fcb033462b148fa/120000/120530/120530.mp4
-
 #EXTINF:-1 tvg-logo="",Tron Legacy
 http://www.spruto.tv/get_file/7/b423f014c2415802116bc91675438dfd/76000/76795/76795.mp4
 
@@ -2640,9 +2629,6 @@ http://www.spruto.tv/get_file/2/1bb4e6aa6a6efc957d602a72b71f3bd3/102000/102864/1
 #EXTINF:-1 tvg-logo="",Una película de Huevos
 http://www.spruto.tv/get_file/4/475e28d7810b31e3c29131d2e181c057/148000/148357/148357.mp4
 
-#EXTINF:-1 tvg-logo="",Unas rubias muy legales
-http://www.spruto.tv/get_file/5/71351fd442f320cbe98203868f3f6758/115000/115829/115829.mp4
-
 #EXTINF:-1 tvg-logo="",Up una aventura de altura
 http://www.spruto.tv/get_file/7/3a20e200ae63199bb7e5a657748c6b7d/76000/76707/76707.mp4
 
@@ -2685,7 +2671,7 @@ http://www.spruto.tv/get_file/2/5082de5577af1c96970323f85f6bb7d8/105000/105719/1
 #EXTINF:-1 tvg-logo="",X-Men Primera Generación
 http://www.spruto.tv/get_file/2/f33f853716f6ecf74c9b4c8ede9f7f65/105000/105720/105720.mp4
 
-#EXTINF:-1 tvg-logo="",X-Men 1
+#EXTINF:-1 tvg-logo="",X-Men
 http://www.spruto.tv/get_file/2/f136f3a737a06d7d6f52255fc8d0c953/97000/97116/97116.mp4
 
 #EXTINF:-1 tvg-logo="",X-Men 2

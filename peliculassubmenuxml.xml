@@ -6,24 +6,24 @@
 	<name>[COLOR=][B]Todo el cat�logo[/B][/COLOR]</name>
 		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/catalog%20thumbnail.jpg</thumbnail>
 			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/catalogo%20fanart.jpg</fanart>
-			<info>[B][/B]</info>
+			<info>[B]Todas las películas disponibles ordenas alfabéticamente[/B]</info>
 		<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/AllPel%C3%ADculas.m3u</externallink>
 </channel>
 
 <channel>
-	<name>[COLOR=][B]Recién Agregadas[/B][/COLOR]</name>
-		<thumbnail>http://ignoreme</thumbnail>
-			<fanart>http://ignoreme</fanart>
-			<info>[B][/B]</info>
+	<name>[COLOR=][B]Recién Agregados[/B][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/nuevas%20thumbnail.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/nuevas%20fanart.jpg</fanart>
+			<info>[B]Los titulos recien agregados a la biblioteca de Tesla[/B]</info>
 		<link>http://ignoreme</link>
 	<externallink></externallink>
 </channel>
 
 <channel>
-	<name>[COLOR=][B][/B][/COLOR]</name>
-		<thumbnail>http://ignoreme</thumbnail>
-			<fanart>http://ignoreme</fanart>
+	<name>[COLOR=][B]Acción y Aventuras[/B][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/accion%20aven%20thumbnail.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/accion%20aven%20fanart.jpg</fanart>
 			<info>[B][/B]</info>
 		<link>http://ignoreme</link>
 	<externallink>http://ignoreme</externallink>
