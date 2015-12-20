@@ -15,25 +15,81 @@
 	<name>[COLOR=][B]Recién Agregados[/B][/COLOR]</name>
 		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/nuevas%20thumbnail.jpg</thumbnail>
 			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/nuevas%20fanart.jpg</fanart>
-			<info>[B]Los titulos recien agregados a la biblioteca de Tesla[/B]</info>
+			<info>[B]Los titulos recién agregados a la biblioteca de Tesla[/B]</info>
 		<link>http://ignoreme</link>
-	<externallink></externallink>
+	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/Recien%20Agregados.m3u</externallink>
 </channel>
 
 <channel>
-	<name>[COLOR=][B]Acción y Aventuras[/B][/COLOR]</name>
-		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/accion%20aven%20thumbnail.jpg</thumbnail>
-			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/accion%20aven%20fanart.jpg</fanart>
-			<info>[B][/B]</info>
-		<link>http://ignoreme</link>
-	<externallink>http://ignoreme</externallink>
-</channel>
-
-<channel>
-	<name>[COLOR=][B][/B][/COLOR]</name>
+	<name>[COLOR=][B]Especial[/B][/COLOR]</name>
 		<thumbnail>http://ignoreme</thumbnail>
 			<fanart>http://ignoreme</fanart>
 			<info>[B][/B]</info>
 		<link>http://ignoreme</link>
 	<externallink>http://ignoreme</externallink>
 </channel>
+
+<channel>
+	<name>[COLOR=][B]Acción y Aventuras[/B][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/accion%20aven%20thumbnail.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/accion%20aven%20fanart.jpg</fanart>
+			<info>[B]Las mejores películas de Acción[/B]</info>
+		<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/Accion%20y%20Aventuras.m3u</externallink>
+</channel>
+
+<channel>
+	<name>[COLOR=][B]Comedias[/B][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/comedias%20thumbnail.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/comedias%20fanart.jpg</fanart>
+			<info>[B]Lo mejor de Comedia, Disparatadas y de Risas[/B]</info>
+		<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/Comedias.m3u</externallink>
+</channel>
+
+<channel>
+	<name>[COLOR=][B]Dramas[/B][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/dramas%20thumbnail.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/dramas%20fanart.jpg</fanart>
+			<info>[B]Los titulos de Drama y Romance[/B]</info>
+		<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/Dramas.m3u</externallink>
+</channel>
+
+<channel>
+	<name>[COLOR=][B]Infantil[/B][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/infantiles%20thumbnail.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/infantiles%20fanart.jpg</fanart>
+			<info>[B]Sección para los más peques de la casa[/B]</info>
+		<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/Infantil.m3u</externallink>
+</channel>
+
+<channel>
+	<name>[COLOR=][B]Ciencia Ficción y Fantasía[/B][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/ciencia%20thumbnail.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/ciencia%20fanart.jpg</fanart>
+			<info>[B]Solo Sci-Fi[/B]</info>
+		<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/SciFi.m3u</externallink>
+</channel>
+
+<channel>
+	<name>[COLOR=][B]Terror[/B][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/terror%20thumbnail.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/terror%20fanart.jpg</fanart>
+			<info>[B]No podrás dormir,el mejor terror[/B]</info>
+		<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/Terror.m3u</externallink>
+</channel>
+
+<channel>
+	<name>[COLOR=][B]Nuevos Lanzamientos[/B][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/estrenos%20thumbnail.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/estrenos%20fanart.jpg</fanart>
+			<info>[B]Los titutlos, estrenos de cartelera[/B]</info>
+		<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/rivo68/Tesla/master/Listas/Estrenos.m3u</externallink>
+</channel>
+
+

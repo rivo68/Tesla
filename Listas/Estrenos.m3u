@@ -1,1 +1,7 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/Avengers2.jpg",Avengers 2 La era de Ultron
+http://www.spruto.tv/get_file/6/2290f42f7456e7f4a7d3a51abae821b9/132000/132595/132595.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/Corazonesdehierro.jpg",Corazones de hierro
+http://www.spruto.tv/get_file/2/65f5170eb81e3fec7e731226bd198c2c/96000/96173/96173.mp4

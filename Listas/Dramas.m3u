@@ -1,1 +1,10 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/50sombrasdegrey.jpg",50 Sombras de Grey
+http://www.spruto.tv/get_file/5/7b9a4a16ab85a676db01d48268cdb3ff/110000/110845/110845.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/8mile.jpg",8 Mile
+http://www.spruto.tv/get_file/5/ef9e9c158fe21040c056fb11e724d12b/119000/119799/119799.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/Amigosbeneficio.jpg",Amigos con beneficio
+http://www.spruto.tv/get_file/6/f9045b1c77596ddf003294743f6c48c5/128000/128020/128020.mp4

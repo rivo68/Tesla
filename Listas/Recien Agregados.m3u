@@ -1,1 +1,13 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/Everest.jpg",Everest
+http://www.spruto.tv/get_file/4/c49c0a6a3f61199c6aab57cf72b1b17e/151000/151741/151741.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/elprincipito.jpg",El Principito
+http://www.spruto.tv/get_file/4/ae8f176387f4d09703c9528bf410604c/151000/151260/151260.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/cenicienta.jpg",Cenicienta
+http://www.spruto.tv/get_file/5/d14aebb0cf59222af1f94c8e5da7c938/118000/118621/118621.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/Dr%C3%A1cula.jpg",Drácula
+http://www.spruto.tv/get_file/5/89826a461454a52a2e0f0c97fb6d8868/111000/111467/111467.mp4
