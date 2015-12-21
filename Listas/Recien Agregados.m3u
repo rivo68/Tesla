@@ -1,7 +1,10 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="",Pan
+http://www.spruto.tv/get_file/4/8cb7648c0e5c1aff912266e72b6bbc56/152000/152070/152070.mp4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/Everest.jpg",Everest
-http://www.spruto.tv/get_file/4/c49c0a6a3f61199c6aab57cf72b1b17e/151000/151741/151741.mp4
+http://www.spruto.tv/get_file/4/189a0fdebaaf0dbcedc58851e03b4437/152000/152042/152042.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/elprincipito.jpg",El Principito
 http://www.spruto.tv/get_file/4/ae8f176387f4d09703c9528bf410604c/151000/151260/151260.mp4
