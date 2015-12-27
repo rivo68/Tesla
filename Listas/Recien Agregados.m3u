@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="",Pan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/Pan.jpg",Pan
 http://www.spruto.tv/get_file/4/8cb7648c0e5c1aff912266e72b6bbc56/152000/152070/152070.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/Everest.jpg",Everest
