@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-	<name>[COLOR=#20B2AA][B]Reci&eacuten Agregados[/B][/COLOR]</name>
+	<name>[COLOR=DeepSkyBlue][B]Recién Agregados[/B][/COLOR]</name>
 		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/nuevas%20thumbnail.jpg</thumbnail>
 			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/nuevas%20fanart.jpg</fanart>
 			<info>[B]Los titulos recién agregados a la biblioteca de Tesla[/B]</info>
@@ -30,7 +30,7 @@
 </channel>
 
 <channel>
-	<name>[COLOR=][B]Acci&oacuten y Aventuras[/B][/COLOR]</name>
+	<name>[COLOR=][B]Acción y Aventuras[/B][/COLOR]</name>
 		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/accion%20aven%20thumbnail.jpg</thumbnail>
 			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/accion%20aven%20fanart.jpg</fanart>
 			<info>[B]Las mejores películas de Acción[/B]</info>
@@ -66,7 +66,7 @@
 </channel>
 
 <channel>
-	<name>[COLOR=][B]Ciencia Ficci&oacuten y Fantas&iacutea[/B][/COLOR]</name>
+	<name>[COLOR=][B]Ciencia Ficción y Fantasía[/B][/COLOR]</name>
 		<thumbnail>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/ciencia%20thumbnail.jpg</thumbnail>
 			<fanart>https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/imagenes%20menu/ciencia%20fanart.jpg</fanart>
 			<info>[B]Solo Sci-Fi[/B]</info>
