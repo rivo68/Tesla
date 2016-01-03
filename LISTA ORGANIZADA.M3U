@@ -1236,9 +1236,6 @@ http://www.spruto.tv/get_file/8/841ecbeac420adcaa5b39ac81d94c63f/123000/123738/1
 #EXTINF:-1 tvg-logo="",animada Alicia en el país de las maravillas
 http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
 
-#EXTINF:-1 tvg-logo="",Apartamento 1303
-http://www.spruto.tv/get_file/1/49d3ace5335a6cabdc5a3581b37dbc85/86000/86749/86749.mp4
-
 #EXTINF:-1 tvg-logo="",Amenaza en la red
 http://www.spruto.tv/get_file/5/a6a2cf9cdb60b11749ebeba7aaa812ea/114000/114206/114206.mp4
 
@@ -1266,8 +1263,14 @@ http://www.spruto.tv/get_file/5/14faad4dd23e936fb3bf5a82c912466b/111000/111457/1
 #EXTINF:-1 tvg-logo="",Amigos con beneficio
 http://www.spruto.tv/get_file/6/f9045b1c77596ddf003294743f6c48c5/128000/128020/128020.mp4
 
+#EXTINF:-1 tvg-logo="",Amigos Intocbles
+http://www.spruto.tv/get_file/2/cac1632c13cdd6158a88117ad83b8306/153000/153938/153938.mp4
+
 #EXTINF:-1 tvg-logo="",Annabelle
 http://www.spruto.tv/get_file/5/4d3f0be7fa43e20eadf049bc03b7d253/115000/115800/115800.mp4
+
+#EXTINF:-1 tvg-logo="",Apartamento 1303
+http://www.spruto.tv/get_file/1/49d3ace5335a6cabdc5a3581b37dbc85/86000/86749/86749.mp4
 
 #EXTINF:-1 tvg-logo="",Archivo 253
 http://www.spruto.tv/get_file/6/1860e91af098726eb114e7f528ded2ca/127000/127020/127020.mp4
@@ -1413,6 +1416,9 @@ http://www.spruto.tv/get_file/1/688f00032dedd940ad06005785bf4f2a/82000/82907/829
 #EXTINF:-1 tvg-logo="",Barbie Super princesa
 http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
 
+#EXTINF:-1 tvg-logo="",Barbie Y Sus hermanas Perritos en busca del tesoro
+http://www.spruto.tv/get_file/2/27deeefa43007e512851315a3bf8d776/154000/154013/154013.mp4
+
 #EXTINF:-1 tvg-logo="",Barely Lethal
 http://www.spruto.tv/get_file/5/5d592f0ec74f0cf1a0e0849f11801959/118000/118673/118673.mp4
 
@@ -1521,6 +1527,9 @@ http://www.spruto.tv/get_file/7/bfb3ca9937f80a9a99a69e670cc1bdf7/78000/78046/780
 #EXTINF:-1 tvg-logo="",Como entrenar a tu Dragón
 http://www.spruto.tv/get_file/1/647c44d3f979575f21cb6331658b1ba7/86000/86732/86732.mp4
 
+#EXTINF:-1 tvg-logo="",Como si fuera la Primera vez
+http://www.spruto.tv/get_file/4/ff36961616eb60f1d692f46bd2726004/153000/153199/153199.mp4
+
 #EXTINF:-1 tvg-logo="",Confesiones de una típica adolescente
 http://www.spruto.tv/get_file/7/c592d26647a3d29bdd95a2d2acc6e2f5/76000/76936/76936.mp4
 
@@ -1595,6 +1604,9 @@ http://www.spruto.tv/get_file/7/bb770d51d59de6cef6fd55ac2a435bd3/76000/76334/763
 
 #EXTINF:-1 tvg-logo="",El Ardor
 http://www.spruto.tv/get_file/1/e3eb16575a9ab7040738f775c378e0fc/86000/86900/86900.mp4
+
+#EXTINF:-1 tvg-logo="",El Becario
+http://www.spruto.tv/get_file/4/218098d0db0435570a28f84d0de8b7cb/153000/153028/153028.mp4
 
 #EXTINF:-1 tvg-logo="",El caldero Mágico
 http://www.spruto.tv/get_file/7/3324dda38b6071a6ba070f2eaad0ced6/76000/76338/76338.mp4
@@ -1676,6 +1688,9 @@ http://www.spruto.tv/get_file/2/de5191e94478cc57ef20ad3638eeaffd/97000/97817/978
 
 #EXTINF:-1 tvg-logo="",El maestro Luchador
 http://www.spruto.tv/get_file/8/777a31226cb64b3f6dd032e0202c6a4c/121000/121860/121860.mp4
+
+#EXTINF:-1 tvg-logo="",El Marciano
+http://www.spruto.tv/get_file/4/d7460ad5dc454ad3ac8c496009714800/153000/153038/153038.mp4
 
 #EXTINF:-1 tvg-logo="",El misterio de los Excavadores
 http://www.spruto.tv/get_file/7/1a65805dc207e3ebfda2cf1d5a76bfd3/76000/76999/76999.mp4
@@ -1875,6 +1890,9 @@ http://www.spruto.tv/get_file/1/ec0d0600daeeec97ebaa31311b47e954/86000/86754/867
 #EXTINF:-1 tvg-logo="",Hermosas Criaturas (2013)
 http://www.spruto.tv/get_file/6/ce5c17ea489e291fc7bff448b79605d8/128000/128454/128454.mp4
 
+#EXTINF:-1 tvg-logo="",Hombre Irracional
+http://www.spruto.tv/get_file/2/a82f7d06264ddb7c083f4f53f1648008/154000/154230/154230.mp4
+
 #EXTINF:-1 tvg-logo="",Hombres en guerra
 http://www.spruto.tv/get_file/2/faddaa090f3f876390cb47f33d8f8c3e/89000/89041/89041.mp4
 
@@ -1895,6 +1913,9 @@ http://www.spruto.tv/get_file/6/9c06482d530348e0d2463281b33a5f88/129000/129273/1
 
 #EXTINF:-1 tvg-logo="",Hotel Transylvania
 http://www.spruto.tv/get_file/6/122079294634eb3d7d23b2cdfc50c966/135000/135317/135317.mp4
+
+#EXTINF:-1 tvg-logo="",Hotel Transylvania 2
+http://www.spruto.tv/get_file/4/86c790b8b8e740f1834ee06c81a67612/152000/152899/152899.mp4
 
 #EXTINF:-1 tvg-logo="",Identidad Especial
 http://www.spruto.tv/get_file/8/d64dbd8265ee4cff1ff3567faf18850a/120000/120503/120503.mp4
@@ -1970,6 +1991,9 @@ http://www.spruto.tv/get_file/5/db0dd392dbcd04d1d5e6190a22443734/110000/110192/1
 
 #EXTINF:-1 tvg-logo="",La brújula dorada
 http://www.spruto.tv/get_file/7/0eb502e397a596177da4fc8ccc470765/77000/77981/77981.mp4
+
+#EXTINF:-1 tvg-logo="",La Caída del Halcón negro
+http://www.spruto.tv/get_file/2/bdb232c0088d432a45818297fc86652f/154000/154238/154238.mp4
 
 #EXTINF:-1 tvg-logo="",La Casa mágica
 http://www.spruto.tv/get_file/6/1239d653eb544e842c74c785ed184265/131000/131483/131483.mp4
@@ -2048,6 +2072,9 @@ http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/1
 
 #EXTINF:-1 tvg-logo="",La vida de Pi
 http://www.spruto.tv/get_file/4/e35b7e13a3f37c6a47f2dae214eb763c/125000/125645/125645.mp4
+
+#EXTINF:-1 tvg-logo="",La Visita
+http://www.spruto.tv/get_file/4/59973ae7af5a05e538465e8e2a165227/152000/152050/152050.mp4
 
 #EXTINF:-1 tvg-logo="",La vuelta al mundo en 80 días
 http://www.spruto.tv/get_file/7/883681f6f209a65a6b75dde536ceff59/76000/76793/76793.mp4
@@ -2147,7 +2174,7 @@ http://www.spruto.tv/get_file/7/fb250641fc32db7c7a4e99a1f25cc056/77000/77013/770
 http://www.spruto.tv/get_file/8/8320c2e6e6f6ad05a7a01207f0314f6d/121000/121851/121851.mp4
 
 #EXTINF:-1 tvg-logo="",Lucy
-http://www.spruto.tv/get_file/2/1fb22fb18c1a240bdb16bc67982968b7/90000/90742/90742.mp4
+http://www.spruto.tv/get_file/2/3e8e0232ede4de60154ea4d92759bdcc/154000/154018/154018.mp4
 
 #EXTINF:-1 tvg-logo="",Mad Max Furia en el camino
 http://www.spruto.tv/get_file/6/4a3f8f31d9b9f8823b56f6dfa2cd62a6/128000/128196/128196.mp4

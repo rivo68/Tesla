@@ -1,5 +1,32 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="",La Visita
+http://www.spruto.tv/get_file/4/59973ae7af5a05e538465e8e2a165227/152000/152050/152050.mp4
+
+#EXTINF:-1 tvg-logo="",Hotel Transylvania 2
+http://www.spruto.tv/get_file/4/86c790b8b8e740f1834ee06c81a67612/152000/152899/152899.mp4
+
+#EXTINF:-1 tvg-logo="",La Caída del Halcón negro
+http://www.spruto.tv/get_file/2/bdb232c0088d432a45818297fc86652f/154000/154238/154238.mp4
+
+#EXTINF:-1 tvg-logo="",Hombre Irracional
+http://www.spruto.tv/get_file/2/a82f7d06264ddb7c083f4f53f1648008/154000/154230/154230.mp4
+
+#EXTINF:-1 tvg-logo="",Barbie Y Sus hermanas Perritos en busca del tesoro
+http://www.spruto.tv/get_file/2/27deeefa43007e512851315a3bf8d776/154000/154013/154013.mp4
+
+#EXTINF:-1 tvg-logo="",Amigos Intocbles
+http://www.spruto.tv/get_file/2/cac1632c13cdd6158a88117ad83b8306/153000/153938/153938.mp4
+
+#EXTINF:-1 tvg-logo="",Como si fuera la Primera vez
+http://www.spruto.tv/get_file/4/ff36961616eb60f1d692f46bd2726004/153000/153199/153199.mp4
+
+#EXTINF:-1 tvg-logo="",El Marciano
+http://www.spruto.tv/get_file/4/d7460ad5dc454ad3ac8c496009714800/153000/153038/153038.mp4
+
+#EXTINF:-1 tvg-logo="",El Becario
+http://www.spruto.tv/get_file/4/218098d0db0435570a28f84d0de8b7cb/153000/153028/153028.mp4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rivo68/Tesla/master/Imagenes/Logos%20Peliculas/Pan.jpg",Pan
 http://www.spruto.tv/get_file/4/8cb7648c0e5c1aff912266e72b6bbc56/152000/152070/152070.mp4
 
