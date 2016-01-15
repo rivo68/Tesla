@@ -1,5 +1,14 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="",El Gran Pequeño
+http://www.spruto.tv/get_file/6/aeb2577d594b35cc390765df4cd06614/128000/128661/128661.mp4
+
+#EXTINF:-1 tvg-logo="",Lluvia de Hamburguesas 2
+http://www.spruto.tv/get_file/5/5b3b2e88df38776d239e6eb63fde5c55/141000/141378/141378.mp4
+
+#EXTINF:-1 tvg-logo="",Jumanji
+http://www.spruto.tv/get_file/5/a05382cee90b1e2471f7b55f5bfc6a90/143000/143290/143290.mp4
+
 #EXTINF:-1 tvg-logo="",La Visita
 http://www.spruto.tv/get_file/4/59973ae7af5a05e538465e8e2a165227/152000/152050/152050.mp4
 

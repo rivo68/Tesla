@@ -1483,7 +1483,7 @@ http://www.spruto.tv/get_file/5/21f09609e8f51f3672f339b7553bb1b2/110000/110852/1
 http://www.spruto.tv/get_file/7/1a51e70baad845814df291f685402b72/76000/76269/76269.mp4
 
 #EXTINF:-1 tvg-logo="",Cars 2
-http://www.spruto.tv/get_file/7/4b953ea3c993d65d5f30e30cfb5e79f9/76000/76270/76270.mp4
+http://www.spruto.tv/get_file/5/375fc80b7f9e47e617b4cf5ad0c6f1d0/142000/142315/142315.mp4
 
 #EXTINF:-1 tvg-logo="",Cartas al cielo
 http://www.spruto.tv/get_file/5/8cec12f20eca7429c55c12f62c6f7a51/116000/116979/116979.mp4
@@ -1640,6 +1640,9 @@ http://www.spruto.tv/get_file/6/9a70f2aca56cfc42e38ea3bfd18c39b3/131000/131119/1
 
 #EXTINF:-1 tvg-logo="",El Juego de Ender
 http://www.spruto.tv/get_file/7/15face895eed494cd612076b5502f80a/77000/77642/77642.mp4
+
+#EXTINF:-1 tvg-logo="",El Gran Pequeño
+http://www.spruto.tv/get_file/6/aeb2577d594b35cc390765df4cd06614/128000/128661/128661.mp4
 
 #EXTINF:-1 tvg-logo="",El guardián del Zoológico
 http://www.spruto.tv/get_file/5/1c88902145180aba5d3c2f6b30d5901f/117000/117502/117502.mp4
@@ -1968,6 +1971,9 @@ http://www.spruto.tv/get_file/1/9f880630e6efcf793c81ac19f6b9c630/86000/86643/866
 #EXTINF:-1 tvg-logo="",Jugada Salvaje
 http://www.spruto.tv/get_file/6/9f95472e38979447d7e646e2d3c20b06/128000/128665/128665.mp4
 
+#EXTINF:-1 tvg-logo="",Jumanji
+http://www.spruto.tv/get_file/5/a05382cee90b1e2471f7b55f5bfc6a90/143000/143290/143290.mp4
+
 #EXTINF:-1 tvg-logo="",Jurassic Park
 http://www.spruto.tv/get_file/5/82867e496efef1a918cd6b95a087985e/117000/117021/117021.mp4
 
@@ -2175,6 +2181,9 @@ http://www.spruto.tv/get_file/8/8320c2e6e6f6ad05a7a01207f0314f6d/121000/121851/1
 
 #EXTINF:-1 tvg-logo="",Lucy
 http://www.spruto.tv/get_file/2/3e8e0232ede4de60154ea4d92759bdcc/154000/154018/154018.mp4
+
+#EXTINF:-1 tvg-logo="",Lluvia de Hamburguesas 2
+http://www.spruto.tv/get_file/5/5b3b2e88df38776d239e6eb63fde5c55/141000/141378/141378.mp4
 
 #EXTINF:-1 tvg-logo="",Mad Max Furia en el camino
 http://www.spruto.tv/get_file/6/4a3f8f31d9b9f8823b56f6dfa2cd62a6/128000/128196/128196.mp4
@@ -2747,203 +2756,241 @@ http://iptvnation.com/criminal.mp4
 http://iptvnation.com/csimiami.mp4
 
 
-#EXTINF:-1,group-title="TV ALTERNATIVA",FOX
-http://iptvcanales.com/xw/cable.php?canal=1&player=playlist.m3u8
-#EXTINF:-1,SYFY.
-http://iptvcanales.com/xw/cable.php?canal=2&player=playlist.m3u8
-#EXTINF:-1,group-title="TV ALTERNATIVA",CANAL DE LAS ESTRELLAS.
-http://iptvcanales.com/xw/cable.php?canal=3&player=playlist.m3u8
-#EXTINF:-1,CANAL 5
-http://iptvcanales.com/xw/cable.php?canal=4&player=playlist.m3u8
-#EXTINF:-1,CADENA 3.
-http://iptvcanales.com/xw/cable.php?canal=5&player=playlist.m3u8
-#EXTINF:-1,AZTECA 7.
-http://iptvcanales.com/xw/cable.php?canal=6&player=playlist.m3u8
-#EXTINF:-1,ONCE TV
-http://iptvcanales.com/xw/cable.php?canal=7&player=playlist.m3u8
-#EXTINF:-1,AZTECA TRECE
-http://iptvcanales.com/xw/cable.php?canal=8&player=playlist.m3u8
-#EXTINF:-1,52MX
-http://iptvcanales.com/xw/cable.php?canal=9&player=playlist.m3u8
-#EXTINF:-1,UNICABLE
-http://iptvcanales.com/xw/cable.php?canal=10&player=playlist.m3u8
-#EXTINF:-1,GALA TV
-http://iptvcanales.com/xw/cable.php?canal=11&player=playlist.m3u8
-#EXTINF:-1,E!
-http://iptvcanales.com/xw/cable.php?canal=12&player=playlist.m3u8
-#EXTINF:-1,TLNOVELAS
-http://iptvcanales.com/xw/cable.php?canal=13&player=playlist.m3u8
-#EXTINF:-1,SONY
-http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
-#EXTINF:-1,CINEMAX
-http://iptvcanales.com/xw/cable.php?canal=15&player=playlist.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
-#EXTINF:-1,FX
-http://iptvcanales.com/xw/cable.php?canal=17&player=playlist.m3u8
-#EXTINF:-1,WARNER 
-http://iptvcanales.com/xw/cable.php?canal=18&player=playlist.m3u8
-#EXTINF:-1,GOLDEN
-http://iptvcanales.com/xw/cable.php?canal=19&player=playlist.m3u8
-#EXTINF:-1,EDGE
-http://iptvcanales.com/xw/cable.php?canal=20&player=playlist.m3u8
-#EXTINF:-1,SPACE
-http://iptvcanales.com/xw/cable.php?canal=21&player=playlist.m3u8
-#EXTINF:-1,MULTICINEMA
-http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
-#EXTINF:-1,DE PELICULA
-http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
-#EXTINF:-1,23
-http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
-#EXTINF:-1,WOBI
-http://iptvcanales.com/xw/cable.php?canal=25&player=playlist.m3u8
-#EXTINF:-1,A&E
-http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
-#EXTINF:-1,FOX LIFE
-http://iptvcanales.com/xw/cable.php?canal=27&player=playlist.m3u8
-#EXTINF:-1,NICK
-http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
-#EXTINF:-1,DISNEY XD
-http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
-#EXTINF:-1,TyC SPORTS
-http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
-#EXTINF:-1,31
-http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
-#EXTINF:-1,ESPN
-http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
-#EXTINF:-1,ESPN 2
-http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
-#EXTINF:-1,ESPN 3
-http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
-#EXTINF:-1,TELEHIT HD
-http://iptvcanales.com/xw/cable.php?canal=36&player=playlist.m3u8
-#EXTINF:-1,NAT GEO
-http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
-#EXTINF:-1,HISTORY
-http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
-#EXTINF:-1,BANDAMAX
-http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
-#EXTINF:-1,DISTRITO COMEDIA
-http://iptvcanales.com/xw/cable.php?canal=40&player=playlist.m3u8
-#EXTINF:-1,MILENIO 
-http://iptvcanales.com/xw/cable.php?canal=41&player=playlist.m3u8
-#EXTINF:-1,RITMOSON
-http://iptvcanales.com/xw/cable.php?canal=42&player=playlist.m3u8
-#EXTINF:-1,PROYECTO 40
-http://iptvcanales.com/xw/cable.php?canal=43&player=playlist.m3u8
-#EXTINF:-1,FORO TV
-http://iptvcanales.com/xw/cable.php?canal=44&player=playlist.m3u8
-#EXTINF:-1,GALA TV
-http://iptvcanales.com/xw/cable.php?canal=45&player=playlist.m3u8
-#EXTINF:-1,NOTICIAS
-http://iptvcanales.com/xw/cable.php?canal=46&player=playlist.m3u8
-#EXTINF:-1,47 BTV
-http://iptvcanales.com/xw/cable.php?canal=47&player=playlist.m3u8
-#EXTINF:-1,CANAL 28
-http://iptvcanales.com/xw/cable.php?canal=48&player=playlist.m3u8
-#EXTINF:-1,49 TELECON
-http://iptvcanales.com/xw/cable.php?canal=49&player=playlist.m3u8
-#EXTINF:-1,GREEN TV
-http://iptvcanales.com/xw/cable.php?canal=50&player=playlist.m3u8
-#EXTINF:-1,TELEMUNDO
-http://iptvcanales.com/xw/cable.php?canal=51&player=playlist.m3u8
-#EXTINF:-1,CANAL 2 ARG
-http://iptvcanales.com/xw/cable.php?canal=52&player=playlist.m3u8
-#EXTINF:-1,53
-http://iptvcanales.com/xw/cable.php?canal=53&player=playlist.m3u8
-#EXTINF:-1,MEGA
-http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
-#EXTINF:-1,55
-http://iptvcanales.com/xw/cable.php?canal=55&player=playlist.m3u8
-#EXTINF:-1,BEIN SPORTS
-http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
-#EXTINF:-1,BEIN SPORTS ENG
-http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
-#EXTINF:-1,58 6 SPORTS
-http://iptvcanales.com/xw/cable.php?canal=58&player=playlist.m3u8
-#EXTINF:-1,59
-http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
-#EXTINF:-1,60
-http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
-#EXTINF:-1,COLOSAL TV
-http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
-#EXTINF:-1,TELE UNO
-http://iptvcanales.com/xw/cable.php?canal=62&player=playlist.m3u8
-#EXTINF:-1,XPER TV
-http://iptvcanales.com/xw/cable.php?canal=63&player=playlist.m3u8
-#EXTINF:-1,TVN
-http://iptvcanales.com/xw/cable.php?canal=64&player=playlist.m3u8
-#EXTINF:-1,SMO TV
-http://iptvcanales.com/xw/cable.php?canal=65&player=playlist.m3u8
-#EXTINF:-1,RTVE
-http://iptvcanales.com/xw/cable.php?canal=66&player=playlist.m3u8
-#EXTINF:-1,NFL NETWORK
-http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
-#EXTINF:-1,68
-http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
-#EXTINF:-1,69
-http://iptvcanales.com/xw/cable.php?canal=69&player=playlist.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL
-http://iptvcanales.com/xw/cable.php?canal=70&player=playlist.m3u8
-#EXTINF:-1,AXN
-http://iptvcanales.com/xw/cable.php?canal=71&player=playlist.m3u8
-#EXTINF:-1,TRUTV
-http://iptvcanales.com/xw/cable.php?canal=72&player=playlist.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://iptvcanales.com/xw/cable.php?canal=73&player=playlist.m3u8
-#EXTINF:-1,BBC 
-http://iptvcanales.com/xw/cable.php?canal=74&player=playlist.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://iptvcanales.com/xw/cable.php?canal=75&player=playlist.m3u8
-#EXTINF:-1,TNT SERIES
-http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8
-#EXTINF:-1,TBS
-http://iptvcanales.com/xw/cable.php?canal=77&player=playlist.m3u8
-#EXTINF:-1,I SAT
-http://iptvcanales.com/xw/cable.php?canal=78&player=playlist.m3u8
-#EXTINF:-1,AZCORAZON
-http://iptvcanales.com/xw/cable.php?canal=79&player=playlist.m3u8
-#EXTINF:-1,DISCOVERY KIDS
-http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
-#EXTINF:-1,TOONCAST
-http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://iptvcanales.com/xw/cable.php?canal=82&player=playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
-#EXTINF:-1,84
-http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
-#EXTINF:-1,AZCINEMA
-http://iptvcanales.com/xw/cable.php?canal=85&player=playlist.m3u8
-#EXTINF:-1,FOX1
-http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
-#EXTINF:-1,FOX ACTION
-http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
-#EXTINF:-1,FOX MOVIES
-http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
-#EXTINF:-1,FOX CINEMA
-http://iptvcanales.com/xw/cable.php?canal=89&player=playlist.m3u8
-#EXTINF:-1,90
-http://iptvcanales.com/xw/cable.php?canal=90&player=playlist.m3u8
-#EXTINF:-1,CINECANAL MAS
-http://iptvcanales.com/xw/cable.php?canal=91&player=playlist.m3u8
-#EXTINF:-1,TNT
-http://iptvcanales.com/xw/cable.php?canal=92&player=playlist.m3u8
-#EXTINF:-1,FILM ZONE
-http://iptvcanales.com/xw/cable.php?canal=93&player=playlist.m3u8
-#EXTINF:-1,AMC
-http://iptvcanales.com/xw/cable.php?canal=94&player=playlist.m3u8
-#EXTINF:-1,DISCOVERY H&H
-http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
-#EXTINF:-1,VH1 CLASSICS
-http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8
-#EXTINF:-1,MTV LIVE
-http://iptvcanales.com/xw/cable.php?canal=97&player=playlist.m3u8
-#EXTINF:-1,VH1
-http://iptvcanales.com/xw/cable.php?canal=98&player=playlist.m3u8
-#EXTINF:-1,MTV
-http://iptvcanales.com/xw/cable.php?canal=99&player=playlist.m3u8
+#EXTINF:-1,group-title="TV ALTERNATIVA",AMC
+rtmp://31.220.0.13/pull/ playpath=amc36?keys=arDbN8yHjb_al4T1xFeqaA&keyt=1439947242 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=amc36&width=600&height=450
+ 
+#EXTINF:-1,SONY LATINO
+http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF:-1,WARNER LATINO
+http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF:-1, E STUDIO UNIVERSAL LATINO
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
+ 
+#EXTINF:-1,Películas y cine
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF :-1, CINE+
+rtmp://31.220.0.103/privatestream/ playpath=estrenosmas?keys=8eIgpVLTNLd2bwqUozHstw&keyt=1438924322 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=estrenosmas&width=800&height=600
+ 
+#EXTINF :-1, SPACE HD LATINO
+http://201.161.59.7/space.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, FOX HD LATINO
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, CINEMAX HD LATINO
+http://201.161.59.7/cinemax.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF:-1, GOLDEN EDGE LATINO
+http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, PELÍCULAS HD LATINO
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF :-1, SPACE HD LATINO
+http://201.161.59.7/space.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, CINEMAX HD LATINO
+http://201.161.59.7/cinemax.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, FOX HD LATINO
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, SYFY LATINO
+http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, PELÍCULAS DE COMEDIA
+http://flv11.moevideo.net/flv7/tYBScdwFrfwsX2C-_Ajo3A==/api__tVL0gjqo5/35768123_3917650273default/57561.5fe52ae28c0dd567293e9bbd53b6/d3c8281b9d3083fceb9438d515e4dbca_3917650273_g3th412d(lat).mkv.flv?vtype=1
+ 
+#EXTINF :-1, DHE MOVIES LATINO
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, PELIS ESPANOL
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF :-1, DISCOVERY LATINO
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF :-1, MEGA
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8?
+ 
+#EXTINF :-1, MEGA HD ESPAÑA
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+ 
+#EXTINF :-1, MEGA PELICULAS
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?=-1
+ 
+#EXTINF :-1, TOM AND JERRY
+rtmp://208.53.180.130/ctv/tom playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+ 
+#EXTINF :-1, TA TE TI CARICATURAS
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF :-1, DRAGON BALL LATINO
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
+ 
+#EXTINF :-1, ANIME TV LATINO
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+ 
+#EXTINF :-1, CARTOON NETWORK
+http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, DISNEY JR LATINO
+http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, NICK LATINO
+http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, BOING
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chboingtele5/2011/08/29/43256274-8828-4ec3-a413-643c4524998e
+ 
+#EXTINF :-1, NICKELODEON LATINO
+http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, TA TE TI CARICATURAS
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF :-1 UNIVISION DEPORTES TDN
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+ 
+#EXTINF :-1, GOL TV LATINO
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+ 
+#EXTINF :-1, BEIN SPORT
+live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=272908
+ 
+#EXTINF :-1, ESPN LATINO
+http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1 BEIN SPORT INGLES
+rtmp://beinsportgeolivefs.fplive.net/beinsportgeolive-live/beinsport_eng_2
+ 
+#EXTINF :-1, PLANETA FUTBOL
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+ 
+#EXTINF :-1, SKY SPORT 1
+rtmp://46.246.29.143:1935/stream/ playpath=WWv4pD0kYn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=45s34694x5q4s2e4b5s5n244z2a4u2u24424v2t2x2t2x2e4b4&adx=&stream=a4t2745454j58444e434z274646453n26575s4w2g4f3w2t5b5w5t22433z234y2t2p2s264z2z3x25364m2958536a4k4b364p5v3v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224b41354t2j574f52303j5v2f4n5d4d4z2x264b4t2i5u274w284i554z213t2d4x2343434t2y3s2p224r2&sooor=MjM=&str=is&ok=&cat=1&link=1&idom=firstrowpt.eu
+ 
+#EXTINF :-1,sky sport 2
+rtmp://80.82.78.15:443/liverepeater/ playpath=23 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF :-1, SKY SPORT 3
+rtmp://80.82.78.15:443/liverepeater/ playpath=10 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF :-1, BARÇA TV
+rtmp://149.255.39.2/pull/ playpath=barzatv85?keys=xkbVNdjUbT1X73XtGZReKQ&keyt=1439952937 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=barzatv85&width=600&height=450
+ 
+#EXTINF :-1, BARÇA TV
+rtmp://31.220.2.56/pull/barzatv85?keys=PpO8GpWO-VMAp9ZbqyE94Q&keyt=1440155997 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+ 
+#EXTINF :-1, BEIN SPORT INGLES
+rtmp://beinsportgeolivefs.fplive.net/beinsportgeolive-live/beinsport_eng_2
+ 
+#EXTINF :-1, BEIN SPORT
+rtmp://beinsportgeolivefs.fplive.net/beinsportgeolive-live/beinsport_eng_2
+ 
+#EXTINF :-1, beIN Sport usa
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+ 
+#EXTINF :-1, UNIVISION DEPORTES NETWORK
+http://209.133.208.34:1935/app/turbomaxhds-channel/playlist.m3u8
+ 
+#EXTINF :-1, Fox
+http://stalker.darkuzdev.cf:8080/streamer/85.m3u8
+ 
+#EXTINF :-1, TVNOVELAS
+http://stalker.darkuzdev.cf:8080/streamer/185.m3u8
+ 
+#EXTINF :-1, MULTICINEMA
+http://201.161.59.7/multicinema.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, AMC LATINO
+http://stalker.darkuzdev.cf:8080/streamer/368.m3u8
+ 
+#EXTINF :-1, CANAL 5
+http://stalker.darkuzdev.cf:8080/streamer/51.m3u8
+ 
+#EXTINF :-1, UNIMAS
+http://209.133.208.34:1935/app/turbomaxhds-channel/playlist.m3u8
+ 
+#EXTINF :-1, LA RED
+http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/mp4:livestream3/playlist.m
+ 
+#EXTINF :-1, AXN LATINO
+http://stalker.darkuzdev.cf:8080/streamer/109.m3u8
+ 
+#EXTINF :-1, AXN ESPAÑA
+rtmp://31.220.0.206/pull/axn951?keys=tA2k9S9Dm4V3BSCg2LUmNQ&keyt=1440832881 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+ 
+#EXTINF :-1, UNICABLE MÉXICO
+http://201.161.59.6/unicable.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, INFINITO LATINO
+http://stalker.darkuzdev.cf:8080/streamer/157.m3u8
+ 
+#EXTINF :-1, EL GOURMET
+http://stalker.darkuzdev.cf:8080/streamer/161.m3u8
+ 
+#EXTINF :-1, GLITZ
+http://stalker.darkuzdev.cf:8080/streamer/165.m3u8
+ 
+#EXTINF :-1, TBS
+http://stalker.darkuzdev.cf:8080/streamer/177.m3u8
+ 
+#EXTINF :-1, CINE EN CASA
+http://flv9.moevideo.net/flv8/CIOq-bswwZFTZFYZS1cNDw==/api__tVL0gjqo5/35768123_4085006231default/78359.77acca196f2911d730feb0b35ea8/d6de17f04df82b2a17d4b7849fa9c2af_4085006231_WCTMLA.mkv.flv?vtype=1
+ 
+#EXTINF :-1, HTV
+http://stalker.darkuzdev.cf:8080/streamer/473.m3u8
+ 
+#EXTINF :-1, DISCOVERY LATINO
+http://stalker.darkuzdev.cf:8080/streamer/257.m3u8
+ 
+#EXTINF :-1, Discovery kids
+http://stalker.darkuzdev.cf:8080/streamer/193.m3u8
+ 
+#EXTINF :-1, ANIME TV LATINO
+http://stalker.darkuzdev.cf:8080/streamer/193.m3u8
+ 
+#EXTINF :-1, DISNEY JR
+http://stalker.darkuzdev.cf:8080/streamer/201.m3u8
+ 
+#EXTINF :-1, NICKTOONS
+http://stalker.darkuzdev.cf:8080/streamer/469.m3u8
+ 
+#EXTINF :-1, Boomerang
+http://stalker.darkuzdev.cf:8080/streamer/229.m3u8
+ 
+#EXTINF :-1, TIIN
+http://stalker.darkuzdev.cf:8080/streamer/233.m3u8
+ 
+#EXTINF :-1, TIIN
+http://stalker.darkuzdev.cf:8080/streamer/233.m3u8
+ 
+#EXTINF :-1, Theater latino
+http://stalker.darkuzdev.cf:8080/streamer/241.m3u8
+ 
+#EXTINF :-1, HISTORY
+http://stalker.darkuzdev.cf:8080/streamer/245.m3u8
+ 
+#EXTINF :-1, NATGEO LATINO
+http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF :-1, TLC
+http://stalker.darkuzdev.cf:8080/streamer/289.m3u8
+ 
+#EXTINF :-1, SONY LATINO
+http://stalker.darkuzdev.cf:8080/streamer/289.m3u8
+ 
+#EXTINF :-1, civilización
+http://stalker.darkuzdev.cf:8080/streamer/281.m3u8
+ 
+#EXTINF :-1, ISAT
+http://stalker.darkuzdev.cf:8080/streamer/377.m3u8
+ 
+#EXTINF :-1, 40 TV
+rtmp://31.220.0.199/pull/ playpath=40tv560?keys=O_20CeYY_eEsSrSZg3mWfg&keyt=1439949343 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=40tv560&width=600&height=450
 
 
