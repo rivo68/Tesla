@@ -167,8 +167,8 @@ http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 
 
 =================TV DE PAGA=====================
-#EXTINF:-1 group-title="TV DE PAGA",CANAL TOTAL
-http://200.76.77.237/LIVE/H01/CANAL1/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 group-title="TV DE PAGA",UTDN
+https://video08-lax.streamup.com/app/crivo241s-stream/chunklist_w191789863.m3u8
 #EXTINF:-1,CANAL TOTAL HD
 http://200.76.77.237/LIVE/H01/CANAL1/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,CANAL 2
@@ -3117,5 +3117,4 @@ http://www.usbmagictv.com/canales/st.php?webtv=1467
 
 #EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
 https://?
-
 
