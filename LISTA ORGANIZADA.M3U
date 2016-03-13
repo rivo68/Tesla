@@ -2756,365 +2756,162 @@ http://iptvnation.com/criminal.mp4
 http://iptvnation.com/csimiami.mp4
 
 
-#EXTINF:-1,group-title="TV ALTERNATIVA",AMC
-rtmp://31.220.0.13/pull/ playpath=amc36
-#EXTM3U
-
-
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,A&E
-http://www.usbmagictv.com/canales/st.php?webtv=258
-
-#EXTINF: -1,AMC
-http://www.usbmagictv.com/canales/st.php?webtv=485
-#EXTINF: -1,ANIMAL PLANET
-http://www.usbmagictv.com/canales/st.php?webtv=441
-
-
-#EXTINF: -1,ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
-
-
-#EXTINF: -1,AXN LATINO
-http://www.usbmagictv.com/canales/st.php?webtv=2493
-#EXTINF: -1,AZTECA 13
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF: -1,BBC ENTRETAIMENT
-http://www.usbmagictv.com/canales/st.php?webtv=1407 
-#EXTINF: -1,CANAL 5
-http://173.193.205.94:8088/live/zincjasd/playlist.m3u8?id=85468&amp;pk=9c4b172ad21cb61fec70258e2070987c2166621348040b7621d41a4fa1271871 
-
-#EXTINF: -1,CANAL DE LAS ESTRELLAS
-http://www.usbmagictv.com/canales/st.php?webtv=6354
-#EXTINF: -1,CANAL SONY
-http://www.usbmagictv.com/canales/st.php?webtv=2501
-
-#EXTINF: -1,CINE DINAMITA
-http://www.usbmagictv.com/canales/st.php?webtv=3465
-
-#EXTINF: -1,CINECANAL
-http://www.usbmagictv.com/canales/st.php?webtv=2495
-
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,CINELATINO
-http://www.usbmagictv.com/canales/st.php?webtv=477
-#EXTINF: -1,CINEMAX
-http://www.usbmagictv.com/canales/st.php?webtv=343
-
-#EXTINF: -1,COMEDY CENTRAL
-http://www.usbmagictv.com/canales/st.php?webtv=1037
-#EXTINF: -1,DISCOVERY EN ESPANOL
-http://www.usbmagictv.com/canales/st.php?webtv=3531
-#EXTINF: -1,DISCOVERY HOME&HEALT
-http://www.usbmagictv.com/canales/st.php?webtv=252
-
-#EXTINF: -1,DISCOVERY THEATER
-http://www.usbmagictv.com/canales/st.php?webtv=3798
-
-#EXTINF: -1,DISCOVERY WORLD
-http://www.usbmagictv.com/canales/st.php?webtv=3529
-
-DISTRITO COMEDIA
-http://www.usbmagictv.com/canales/st.php?webtv=1491
-
-#EXTINF: -1,DW LATINOAMERICA
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF: -1,E! LATINO
-http://www.usbmagictv.com/canales/st.php?webtv=427
-#EXTINF: -1,EL GOURMET
-http://www.usbmagictv.com/canales/st.php?webtv=1033
-#EXTINF: -1,FILM ZONE
-http://www.usbmagictv.com/canales/st.php?webtv=1055
-#EXTINF: -1,FOX 1 ESTE
-http://www.usbmagictv.com/canales/st.php?webtv=433
-#EXTINF: -1,FOX 1 OESTE
-http://www.usbmagictv.com/canales/st.php?webtv=439
-#EXTINF: -1,FOX ACTION ESTE
-http://www.usbmagictv.com/canales/st.php?webtv=435
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,FOX ACTION OESTE
-http://www.usbmagictv.com/canales/st.php?webtv=437
-#EXTINF: -1,FOX CINEMA
-http://www.usbmagictv.com/canales/st.php?webtv=457
-#EXTINF: -1,FOX CLASSICS
-http://www.usbmagictv.com/canales/st.php?webtv=465
-#EXTINF: -1,FOX COMEDY
-http://www.usbmagictv.com/canales/st.php?webtv=461
-#EXTINF: -1,FOX FAMILY
-http://www.usbmagictv.com/canales/st.php?webtv=467
-#EXTINF: -1,FOX LATINO 
-http://www.usbmagictv.com/canales/st.php?webtv=3947
-#EXTINF: -1,FOX LIFE
-http://www.usbmagictv.com/canales/st.php?webtv=425
-#EXTINF: -1,FOX MOVIES
-http://www.usbmagictv.com/canales/st.php?webtv=463
-#EXTINF: -1,FX
-http://www.usbmagictv.com/canales/st.php?webtv=431
-#EXTINF: -1,GALA TV
-http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8
-
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,GLITZ
-http://www.usbmagictv.com/canales/st.php?webtv=1473
-#EXTINF: -1,GOLDEN
-http://www.usbmagictv.com/canales/st.php?webtv=264
-#EXTINF: -1,GOLDEN EDGE
-http://www.usbmagictv.com/canales/st.php?webtv=1465
-#EXTINF: -1,GOLDEN PREMIER 2
-http://www.usbmagictv.com/canales/st.php?webtv=4777
-#EXTINF: -1,GOOD FOOD
-http://www.usbmagictv.com/canales/st.php?webtv=2587
-#EXTINF: -1,H2 LATINOAMERICA
-http://www.usbmagictv.com/canales/st.php?webtv=297
-#EXTINF: -1,HBO 2 LATINOAMERICA
-http://www.usbmagictv.com/canales/st.php?webtv=365
-#EXTINF: -1,HBO FAMILY
-http://www.usbmagictv.com/canales/st.php?webtv=449
-#EXTINF: -1,HBO
-http://www.usbmagictv.com/canales/st.php?webtv=385
-#EXTINF: -1,HBO PLUS ESTE
-http://www.usbmagictv.com/canales/st.php?webtv=453
-#EXTINF: -1,HISTORY
-http://www.usbmagictv.com/canales/st.php?webtv=3704
-#EXTINF: -1,INVESTIGATION DISCOVERY
-http://www.usbmagictv.com/canales/st.php?webtv=455
-#EXTINF: -1,I-SAT
-http://www.usbmagictv.com/canales/st.php?webtv=1703
-#EXTINF: -1,LIFETIME
-http://www.usbmagictv.com/canales/st.php?webtv=423
-#EXTINF: -1,MAX
-http://www.usbmagictv.com/canales/st.php?webtv=381
-#EXTINF: -1,MAX PRIME ESTE
-http://www.usbmagictv.com/canales/st.php?webtv=377
-#EXTINF: -1,MAX PRIME OESTE
-http://www.usbmagictv.com/canales/st.php?webtv=379
-#EXTINF: -1,MAX UP LATINOAMERICA
-http://www.usbmagictv.com/canales/st.php?webtv=469
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,MEXICO 2
-http://www.usbmagictv.com/canales/st.php?webtv=%205509
-#EXTINF: -1,MEXICO 3
-http://dl-dgtve.xsn.com.mx/dgtve/canal21dgtve.mp4/playlist.m3u8?
-#EXTINF: -1,MEXICO 4
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-
-#EXTINF: -1,Mexico Travel Channel
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-#EXTINF: -1,MULTIPREMIER
-http://www.usbmagictv.com/canales/st.php?webtv=3293
-#EXTINF: -1,MUNDO FOX
-http://www.usbmagictv.com/canales/st.php?webtv=429
-#EXTINF: -1,NATGEO WILD
-http://www.usbmagictv.com/canales/st.php?webtv=254
-#EXTINF: -1,NATIONAL GEOGRAPHIC
-http://www.usbmagictv.com/canales/st.php?webtv=395
-#EXTINF: -1,ONCE TV
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF: -1,PARAMOUNT CHANNEL
-http://www.usbmagictv.com/canales/st.php?webtv=260
-#EXTINF: -1,PASIONES
-http://www.usbmagictv.com/canales/st.php?webtv=295
-#EXTINF: -1,RCNOVELAS
-http://www.usbmagictv.com/canales/st.php?webtv=1493
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,SPACE
-http://www.usbmagictv.com/canales/st.php?webtv=2489
-#EXTINF: -1,STUDIO UNIVERSAL
-http://www.usbmagictv.com/canales/st.php?webtv=345
-#EXTINF: -1,SUNDANCE CHANNEL
-http://www.usbmagictv.com/canales/st.php?webtv=1041
-#EXTINF: -1,SYFY
-http://www.usbmagictv.com/canales/st.php?webtv=447
-#EXTINF: -1,TBS
-http://www.usbmagictv.com/canales/st.php?webtv=333
-#EXTINF: -1,TCM
-http://www.usbmagictv.com/canales/st.php?webtv=481
-#EXTINF: -1,TELEMUNDO INTERNACIONAL
-http://www.usbmagictv.com/canales/st.php?webtv=9773
-#EXTINF: -1,TELEMUNDO USA
-http://www.usbmagictv.com/canales/st.php?webtv=9602
-#EXTINF: -1,TLC 
-http://www.usbmagictv.com/canales/st.php?webtv=327
-#EXTINF: -1,TLNOVELAS
-http://www.usbmagictv.com/canales/st.php?webtv=1461
-#EXTINF: -1,TNT SERIES 
-http://www.usbmagictv.com/canales/st.php?webtv=331
-#EXTINF: -1,TRU TV
-http://www.usbmagictv.com/canales/st.php?webtv=337
-#EXTINF: -1,UNIMAS USA
-http://www.usbmagictv.com/canales/st.php?webtv=3602
-#EXTINF: -1,UNIVERSAL
-http://www.usbmagictv.com/canales/st.php?webtv=387
-#EXTINF: -1,UNIVISION ESTE USA
-http://www.usbmagictv.com/canales/st.php?webtv=6299
-#EXTINF: -1,WARNER CHANNEL
-http://www.usbmagictv.com/canales/st.php?webtv=2499
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,BABY TV MX
-http://www.usbmagictv.com/canales/st.php?webtv=317
-#EXTINF: -1,BABYFIRST TV MX
-http://www.usbmagictv.com/canales/st.php?webtv=317
-#EXTINF: -1,BOOMERANG
-http://www.usbmagictv.com/canales/st.php?webtv=2507
-#EXTINF: -1,CBEEBIES
-http://www.usbmagictv.com/canales/st.php?webtv=1029
-#EXTINF: -1,CARTOON NETWORK
-http://www.usbmagictv.com/canales/st.php?webtv=421
-#EXTINF: -1,DISCOVERY KIDS
-http://www.usbmagictv.com/canales/st.php?webtv=309
-#EXTINF: -1,DISNEY CHANNEL NORTE
-http://www.usbmagictv.com/canales/st.php?webtv=256
-
-#EXTINF: -1,DISNEY JUNIOR NORTE
-http://www.usbmagictv.com/canales/st.php?webtv=1455
-#EXTINF: -1,DISNEY XD NORTE
-http://www.usbmagictv.com/canales/st.php?webtv=499
-
-#EXTINF: -1,NICK JR 
-http://www.usbmagictv.com/canales/st.php?webtv=417
-
-#EXTINF: -1,NICKELODEON
-http://www.usbmagictv.com/canales/st.php?webtv=1423
-#EXTINF: -1,DISNEY USA
-http://www.usbmagictv.com/canales/st.php?webtv=523
-
-#EXTINF: -1,TOONCAST MX
-http://www.usbmagictv.com/canales/st.php?webtv=443
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,ESPN US
-http://www.usbmagictv.com/canales/st.php?webtv=7354
-#EXTINF: -1,ESPN O US
-http://www.usbmagictv.com/canales/st.php?webtv=979
-
-#EXTINF: -1,FOX SPORTS 1 US
-http://www.usbmagictv.com/canales/st.php?webtv=190
-#EXTINF: -1,SKY SPORTS NEWS
-http://www.usbmagictv.com/canales/st.php?webtv=2101
-#EXTINF: -1,ESPN 2 US
-http://www.usbmagictv.com/canales/st.php?webtv=2355
-
-#EXTINF: -1,MLB NETWORK
-http://www.usbmagictv.com/canales/st.php?webtv=192
-#EXTINF: -1,NBA TV US
-http://www.usbmagictv.com/canales/st.php?webtv=2347
-#EXTINF: -1,UFC NETWORK
-http://www.usbmagictv.com/canales/st.php?webtv=9623
-#EXTINF: -1,CBS SPORTS NETWORK
-http://www.usbmagictv.com/canales/st.php?webtv=2359
-#EXTINF: -1,AT THE RACES
-http://www.usbmagictv.com/canales/st.php?webtv=553
-#EXTINF: -1,EUROSPORT 1
-http://www.usbmagictv.com/canales/st.php?webtv=4317
-#EXTINF: -1,EUROSPORT 2
-http://www.usbmagictv.com/canales/st.php?webtv=4322
-#EXTINF: -1,MSG
-http://www.usbmagictv.com/canales/st.php?webtv=2351
-#EXTINF: -1,SPORT 1
-http://www.usbmagictv.com/canales/st.php?webtv=2459
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,SPORT 2
-http://www.usbmagictv.com/canales/st.php?webtv=2461
-#EXTINF: -1,SPORT 3
-http://www.usbmagictv.com/canales/st.php?webtv=2469
-#EXTINF: -1,SPORT 4
-http://www.usbmagictv.com/canales/st.php?webtv=2465
-#EXTINF: -1,SPORT 5
-http://www.usbmagictv.com/canales/st.php?webtv=2467
-#EXTINF: -1,SPORT 6
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF: -1,SPORT 7
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF: -1,SPORT 8
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF: -1,ESPN
-http://www.usbmagictv.com/canales/st.php?webtv=2487
-#EXTINF: -1,ESPN 2
-http://www.usbmagictv.com/canales/st.php?webtv=301
-#EXTINF: -1,FOX SPORTS
-http://www.usbmagictv.com/canales/st.php?webtv=2505
-#EXTINF: -1,FOX SPORTS 2
-http://www.usbmagictv.com/canales/st.php?webtv=475
-#EXTINF: -1,FOX SPORTS 3
-http://www.usbmagictv.com/canales/st.php?webtv=445
-#EXTINF: -1,BEINSPORTS
-http://www.usbmagictv.com/canales/st.php?webtv=2527
-#EXTINF: -1,UFC NETWORK LATINOAMERICA
-http://www.usbmagictv.com/canales/st.php?webtv=9628
-#EXTINF: -1,F1 LATINOAMERICA
-http://www.usbmagictv.com/canales/st.php?webtv=1695
-#EXTINF: -1,PLANETA FUTBOL
-http://www.usbmagictv.com/canales/st.php?webtv=1477
-#EXTINF: -1,TDN MEXICO
-http://www.usbmagictv.com/canales/st.php?webtv=1059
-#EXTINF: -1,UNIVISION TDN
-http://www.usbmagictv.com/canales/st.php?webtv=1483
-#EXTINF: -1,GOLF CHANNEL
-http://www.usbmagictv.com/canales/st.php?webtv=1489
-#EXTINF: -1,MUSIC VIDEOS 1
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF: -1,MUSIC VIDEOS 3
-http://92.50.181.6/tv/1280/index.m3u8
-#EXTINF: -1,MUSIC VIDEOS 4
-http://92.50.181.6/tv/1278/index.m3u8
-#EXTINF: -1,MUSIC VIDEOS 5
-http://92.50.181.6/tv/1279/index.m3u8
-#EXTINF: -1,MUSIC VIDEOS 7
-http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&amp;stream=2
-#EXTINF: -1,MUSIC VIDEOS 17
-http://63.237.48.3/ios/AAA_MUSIC/AAA_MUSIC.m3u8
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,MUSIC VIDEOS 19
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF: -1,MUSIC VIDEOS 20
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF: -1,MUSIC VIDEOS 21
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF: -1,MUSIC VIDEOS 22
-http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
-#EXTINF: -1,MUSIC VIDEOS 23
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF: -1,MUSIC VIDEOS 24
-http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
-#EXTINF: -1,MUSIC VIDEOS 25
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
-#EXTINF: -1,MUSIC VIDEOS 26
-http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
-#EXTINF: -1,MTV LATINOAMERICA
-http://www.usbmagictv.com/canales/st.php?webtv=2491
-#EXTINF: -1,MTV HITS LATINOAMERICA
-http://www.usbmagictv.com/canales/st.php?webtv=1495
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
-#EXTINF: -1,K MUSIC
-http://www.usbmagictv.com/canales/st.php?webtv=3467
-#EXTINF: -1,VH1
-http://www.usbmagictv.com/canales/st.php?webtv=483
-#EXTINF: -1,VH1 CLASSICS EUROPE
-http://www.usbmagictv.com/canales/st.php?webtv=415
-#EXTINF: -1,BANDAMAX
-http://www.usbmagictv.com/canales/st.php?webtv=1467
-
-#EXTINF: -1, -------- superiptvlinks.bogspot.mx -----------
-https://?
-
+#EXTINF:-1,group-title="TV ALTERNATIVA#EXTM3U
+#EXTINF:-1 channelId="2620" , Home & health
+http://200.76.77.232/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535.m3u8
+#EXTINF:-1 channelId="1959" , Bandamax
+http://200.76.77.230/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="243" , Az Clic
+http://200.76.77.230/LIVE/H01/CANAL103/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="238" , Az Corazon
+http://200.76.77.230/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="-1" , Az Cinema
+http://200.76.77.230/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2659" , Multimedios
+http://200.76.77.230/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="177" , Fox
+http://200.76.77.230/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="298" , Canal Sony
+http://200.76.77.230/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2557" , Warner Tv
+http://200.76.77.230/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2901" , Universal HD
+http://200.76.77.230/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1303" , Fx
+http://200.76.77.230/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1208" , A&E
+http://200.76.77.230/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1573" , AXN
+http://200.76.77.230/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="388" , Unicable
+http://200.76.77.230/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1190" , Comedy Central
+http://200.76.77.230/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="988" , BBC Entertainment
+http://200.76.77.230/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1188" , E!
+http://200.76.77.230/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="187" , Universal Channel
+http://200.76.77.230/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="73" , Syfy
+http://200.76.77.230/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2686" , TNT Series
+http://200.76.77.230/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2636" , Trutv
+http://200.76.77.230/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="310" , El Gourmet
+http://200.76.77.230/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2622" , Glitz
+http://200.76.77.230/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="178" , Fox life
+http://200.76.77.230/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1961" , Distrito Comedia
+http://200.76.77.230/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1445" , TBS
+http://200.76.77.230/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2504" , Tlnovelas
+http://200.76.77.230/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="-1" , Hola TV
+http://200.76.77.230/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2505" , Discovery Kids
+http://200.76.77.230/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1147" , Cbeebies
+http://200.76.77.230/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1197" , Disney Jr
+http://200.76.77.230/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="322" , Nick Jr
+http://200.76.77.230/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="19" , Disney Channel
+http://200.76.77.230/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2707" , Nick HD
+http://200.76.77.230/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="41" , Nickelodeon
+http://200.76.77.230/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="40" , Cartoon Network
+http://200.76.77.230/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1198" , Disney XD
+http://200.76.77.230/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="321" , Boomerang
+http://200.76.77.230/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2639" , Tooncast
+http://200.76.77.230/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2688" , Tiin
+http://200.76.77.230/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2558" , Theather HD
+http://200.76.77.230/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1455" , History
+http://200.76.77.230/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="164" , Nat Geo Wild
+http://200.76.77.230/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2839" , Discovery World
+http://200.76.77.230/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="57" , Discovery Channel
+http://200.76.77.230/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="50" , Animal Planet
+http://200.76.77.230/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2620" , Item 47
+http://200.76.77.230/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="56" , Nathional Geo
+http://200.76.77.230/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1200" , Lifetime
+http://200.76.77.230/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="58" , Disc sci
+http://200.76.77.230/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2840" , Turbo
+http://200.76.77.230/LIVE/H01/CANAL383/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2841" , Civilitzation
+http://200.76.77.230/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="67" , TLC
+http://200.76.77.230/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="-1" , Wobi
+http://200.76.77.230/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2491" , Fox 1
+http://200.76.77.230/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2481" , Fox action
+http://200.76.77.230/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2493" , Fox Movies HD
+http://200.76.77.230/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="64" , Cinecanal
+http://200.76.77.230/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2900" , TNT HD
+http://200.76.77.230/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1962" , Golden HD
+http://200.76.77.230/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2661" , Filmzone
+http://200.76.77.230/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1953" , DePelicula HD
+http://200.76.77.230/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2501" , AMC
+http://200.76.77.230/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="383" , Space
+http://200.76.77.230/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1052" , TNT
+http://200.76.77.230/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2502" , Golden Edge
+http://200.76.77.230/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2625" , Studio Universal
+http://200.76.77.230/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2131" , TMC
+http://200.76.77.230/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="-1" , Espn+
+http://200.76.77.230/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2540" , Espn
+http://200.76.77.230/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="344" , Espn 2
+http://200.76.77.230/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="355" , Espn 3
+http://200.76.77.230/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1328" , Fox Sports
+http://200.76.77.230/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="170" , Fox Sports 2
+http://200.76.77.230/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="237" , Mtv Live hd
+http://200.76.77.230/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="339" , Telehit HD
+http://200.76.77.230/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="149" , Vh1 Classic
+http://200.76.77.230/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="2902" , Vh1 HD
+http://200.76.77.230/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 channelId="1484" , Mtv
+http://200.76.77.230/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
