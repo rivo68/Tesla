@@ -1,175 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 group-title="TV ABIERTA",CANAL TOTAL HD
-http://200.76.77.230/LIVE/H01/CANAL1/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",CANAL TOTAL
-http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",CANAL DE LAS ESTRELLAS HD 
-http://200.76.77.230/LIVE/H01/CANAL102/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",CANAL DE LAS ESTRELLAS SD
-http://200.76.77.230/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",Foro tv FULLHD
-http://200.76.77.230/LIVE/H01/CANAL104/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",FORO tv HD
-http://200.76.77.230/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",Foro tv
-http://201.161.59.3/forotv.isml/manifest(format=m3u8UTDN
-
-).m3u8
-#EXTINF:-1 group-title="TV ABIERTAANAL 5 FULLHD
-http://200.76.77.230/LE/H01/CANAL105/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 5 HD
-http://200.76.77.230/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 5
-http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="TV ABIERTA",AZTECA 7 FULLHD
-http://200.76.77.230/LIVE/H01/CANAL107/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",AZTECA 7 HD
-http://200.76.77.230/LIVE/H01/CANAL107/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",AZTECA 7
-http://201.161.59.3/azteca7.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="TV ABIERTA",GALA TV FULLHD
-http://200.76.77.230/LIVE/H01/CANAL109/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",GALA TV HD
-http://200.76.77.230/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",GALA TV
-http://201.161.59.3/galavision.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="TV ABIERTA",ONCE TV FULLHD
-http://200.76.77.230/LIVE/H01/CANAL111/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",ONCE TV HD
-http://200.76.77.230/LIVE/H01/CANAL111/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",ONCE TV SD
-http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="TV ABIERTA",AZTECA 13 FULLHD
-http://200.76.77.230/LIVE/H01/CANAL113/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",AZTECA 13 HD
-http://200.76.77.230/LIVE/H01/CANAL113/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",AZTECA 13 SD
-http://201.161.59.3/azteca13.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="TV ABIERTA",AZTECA 13 -2HRS
-http://201.161.59.3/azteca13-2.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="TV ABIERTA",AZTECA NOTICIAS FULLHD
-http://200.76.77.230/LIVE/H01/CANAL2/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",AZTECA NOTICIAS
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",PROYECTO 40 FULLHD
-http://200.76.77.230/LIVE/H01/CANAL140/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",PROYECTO 40
-http://200.76.77.230/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 13 Nicaragua
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",SMO TV
-http://199.217.118.90:1935/smotv/stream/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 5 HD Honduras
-http://162.212.176.83:8080/tvchd.stream.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL DEL CONGRESO
-http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",TV UNO
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",PERU:Andina TV HD
-http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",TELPIN CANAL 2 HD
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",UNE TV CARIBE
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",UNE TV ARMENIA T-K
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1 group-title="TV ABIERTA",TELE VIDA T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
-#EXTINF:-1 group-title="TV ABIERTA",TELEANTIOQUIA HD T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 group-title="TV ABIERTA",TELEMEDELLIN HD
-http://api.new.livestream.com/accounts/4608897/events/2230380/videos/85757210.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",TELEMEDELLIN T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 group-title="TV ABIERTA",COSMOVISION T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 group-title="TV ABIERTA",CABLE NOTICIAS T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 group-title="TV ABIERTA",CANAL U T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 group-title="TV ABIERTA",TV AGRO T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1 group-title="TV ABIERTA",SEÑAL INSTITUCIONAL 9
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 9 HD
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",TVN Chile
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",TVN Chile
-http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8?
-#EXTINF:-1 group-title="TV ABIERTA",MEGA HD
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",TV5 LINARES CHILE
-http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",RPC Panama
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
-#EXTINF:-1 group-title="TV ABIERTA",TELESUR T-K
-http://q.gs/9830047/telesurtodokodim3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 11 Punta del Este Uruguay
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-#EXTINF:-1 group-title="TV ABIERTA",TELEANTILLAS DOMINICANA
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 10 DOMINIC LATAM
-http://mek2.mekstream.com:1935/telenord10/live2/telenord10.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 2 MISIONES Argentina
-http://190.57.237.214/live/canal.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",AMERICA TV
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-b.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",AMERICA TV HD
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",UCV Satelital
-http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",SULAVISION
-http://162.212.176.83:8080/sulavision.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 9 Bs As Argentina
-http://72.46.226.61/live01/canal91/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 9 ARGENTINA T-K
-http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",TELEMAX Argentina
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",SEÑAL PROVINCIAL Argentina
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",TV TRES ARROYOS Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/13952483/streams/live/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 12 Córdoba Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/13115741/streams/live/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CCC San Luis Argentina
-http://iphone-streaming.ustream.tv/uhls/5031477/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",SEÑAL U Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/20087208/streams/live/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 10 Cordoba Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/20251601/streams/live/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",LA RED
-http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",WILLAX TV
-rtmp://willax.mediastream.pe/vv_willax/livestream
-#EXTINF:-1 group-title="TV ABIERTA",MORENO VISION
-rtmp://morenovisiontv.noip.me/oflaDemo/live
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 29 Ensenada Argentina
-rtmp://panel.dattalive.com/8008/8008
-#EXTINF:-1 group-title="TV ABIERTA",TELE JUNIN Argentina
-rtmp://65.254.42.234/telejunin/telejunin
-#EXTINF:-1 group-title="TV ABIERTA",ECO TV Tandil Argentina
-rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 10 Entre Rios Argentina
-http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",LAPACHO TV Formosa Argentina
-http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",CANAL 9 Salta Argentina
-http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",EL TIEMPO TELEVISIÓN
-http://ooyalahd2-f.akamaihd.net/i/eltiempo1avts_1603@1603/master.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",MILENIO TV
-http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
-#EXTINF:-1 group-title="TV ABIERTA",3/24 CHANNEL
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",AZTECA HONDURAS
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-
-
-=================TV DE PAGA=====================
-#EXTINF:-1 group-title="TV DE PAGA",CANAL TOTAL
+=================TV=====================
+#EXTINF:-1 group-title="TV",CANAL TOTAL
 http://200.76.77.232/LIVE/H01/CANAL1/PROFILE03.m3u8?-1332/1499-20150816T153535.m3u8
 #EXTINF:-1,CANAL TOTAL HD
 http://200.76.77.232/LIVE/H01/CANAL1/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
@@ -411,6 +243,16 @@ http://200.76.77.232/LIVE/H01/CANAL610/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.232/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,BBC
 http://200.76.77.232/LIVE/H01/CANAL253/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1,FOX NEWS
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_2_av-p.m3u8
+#EXTINF:-1,EURONEWS EN ESPAÑOL
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+#EXTINF:-1,24 HRS SPAIN
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TELESUR
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
 #EXTINF:-1,I SAT
 http://200.76.77.232/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,I SAT
@@ -667,223 +509,11 @@ http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1,NFL NOW
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1,TDN Mexico
+http://latino-webtv.ml:86/1059/playlist.m3u8
+#EXTINF:-1,Univision TDN
+http://latino-webtv.ml:86/1483/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="MÚSICA",PLANET POP
-http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1 group-title="MÚSICA",TRENDY MUSICA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1 group-title="MÚSICA",MIMUSICA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 group-title="MÚSICA",AMAZING
-http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1 group-title="MÚSICA",MTV LIVE HD
-http://200.76.77.230/LIVE/H01/CANAL701/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",MTV LIVE 
-http://200.76.77.230/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",TELEHIT FULLHD
-http://200.76.77.230/LIVE/H01/CANAL702/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",TELEHIT HD
-http://200.76.77.230/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",TELEHIT
-http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="MÚSICA",VH1 HD
-http://200.76.77.230/LIVE/H01/CANAL703/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",VH1
-http://200.76.77.230/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",MTV HD
-http://200.76.77.230/LIVE/H01/CANAL726/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",MTV
-http://200.76.77.230/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",MTV Hits HD
-http://200.76.77.230/LIVE/H01/CANAL727/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",MTV Hits
-http://200.76.77.230/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",VH1 Classisc HD
-http://200.76.77.230/LIVE/H01/CANAL728/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",VH1 Classisc
-http://200.76.77.230/LIVE/H01/CANAL728/PROFILE03.m3u?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",VH1 Classic
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
-#EXTINF:-1 group-title="MÚSICA",RITMOSON LATINO HD
-http://200.76.77.230/LIVE/H01/CANAL731/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",RITMOSON LATINO
-http://200.76.77.230/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",BANDAMAX HD
-http://200.76.77.230/LIVE/H01/CANAL732/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="MÚSICA",BANDAMAX
-http://200.76.77.230/LIVE/H01/CANAL732/PROFILE03.m3u8??-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-id="TV Guia_Bandamax" tvg-name="Bandamax" tvg-logo="bandamax.png",Bandamax
-http://201.161.59.4/bandamax.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="MÚSICA",SOY FM
-http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="MÚSICA",COOL RADIO MUSCI
-http://cdn6.iviplanet.com:1935/AVRA/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="MÚSICA",DREAM TV
-http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 group-title="MÚSICA",ULTRA FIESTA
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",MTV Dance
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MTVDANCE/variant.m3u8?version=2
-#EXTINF:-1 group-title="MÚSICA",MTV Hits
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MTVHITS/variant.m3u8?version=2
-#EXTINF:-1 group-title="MÚSICA",MTV Live HD
-http://fe-dv.svc.iptv.rt.ru/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="MÚSICA",VIRGIN 1
-rtmp://fms.105.net:1935/live/virgin1
-#EXTINF:-1 group-title="MÚSICA",VIRGIN 2
-rtmp://fms.105.net:1935/live/virgin2
-#EXTINF:-1 group-title="MÚSICA",VIRGIN tv
-http://wow01.105.net/live/virgin1/chunklist.m3u8
-#EXTINF:-1 group-title="MÚSICA",W9 Hits
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-#EXTINF:-1 group-title="MÚSICA",XITE NACHTS
-rtmp://highvolume02.streampartner.nl:80/vleugels2/livestream
-#EXTINF:-1 group-title="MÚSICA",First Music HD
-http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:-1 group-title="MÚSICA",First Music HD 1080p
-rtmp://109.239.142.62/live/livestream3
-#EXTINF:-1 group-title="MÚSICA",One HD
-http://rtmp.one.by:2300
-#EXTINF:-1 group-title="MÚSICA",TeleM3
-http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="MÚSICA",Telemusica
-rtmp://186.155.200.118:1935/live/telemusica
-#EXTINF:-1 group-title="MÚSICA",BRIDGE TV
-http://bit.ly/ZCH_C05_BRIDGETV_sly
-#EXTINF:-1 group-title="MÚSICA",MCM TOP
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MCMTOP/variant.m3u8?version=2
-#EXTINF:-1 group-title="MÚSICA",Vevo1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1 group-title="MÚSICA",Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1 group-title="MÚSICA",Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1 group-title="MÚSICA",Kiss Tv Music
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1 group-title="MÚSICA",Music Box USA
-rtmp://212.26.132.86/live/mb_ua
-#EXTINF:-1 group-title="MÚSICA",JOLLY HD
-http://tring-amd-live.tring.tv/out/u/81_119.m3u8
-#EXTINF:-1 group-title="MÚSICA",Djing Animation HD
-http://www.djing.com/tv/a-05.m3u8
-#EXTINF:-1 group-title="MÚSICA",Djing Dancefloor HD
-http://www.djing.com/tv/d-05.m3u8
-#EXTINF:-1 group-title="MÚSICA",Djing Undergroung HD
-http://www.djing.com/tv/u-05.m3u8
-#EXTINF:-1 group-title="MÚSICA",Djing HD
-http://www.djing.com/tv/h-05.m3u8
-#EXTINF:-1 group-title="MÚSICA",Djing Dj´s HD
-http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="MÚSICA",Film ON TV Clubbing
-http://204.107.26.252:1935/live/691.high.stream/bratumarian.m3u8
-#EXTINF:-1 group-title="MÚSICA",FRANSA:Music Box 80 7h-19h
-http://teleclub.fr/musicbox80.mp4
-#EXTINF:-1 group-title="MÚSICA",Genc Tv
-http://origin.live.web.tv.streamprovider.net/streams/45b3a774008e07aa0958f4c63addf718_live_0_0/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="MÚSICA",Heart TV 2
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="MÚSICA",ElectroSound
-rtmp://www.electrosound.tv:1935/public/stream
-#EXTINF:-1 group-title="MÚSICA",ESKA Best Music HD 720p
-rtmp://stream.smcloud.net/live2/best/best_720p
-#EXTINF:-1 group-title="MÚSICA",ESKA Best Music HD 16:9
-rtmp://stream.smcloud.net/live2/best/best_360p
-#EXTINF:-1 group-title="MÚSICA",ESKA Party 720p
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:-1 group-title="MÚSICA",ESKA Party SD 16:9
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
-#EXTINF:-1 group-title="MÚSICA",Eska Polo Tv .net
-rtmp://stream.smcloud.net/live/polotv
-#EXTINF:-1 group-title="MÚSICA",Party TV 720P
-rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
-#EXTINF:-1 group-title="MÚSICA",ESKA ROCK TV 720p
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-#EXTINF:-1 group-title="MÚSICA",ESKA ROCK TV SD 16:9
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
-#EXTINF:-1 group-title="MÚSICA",Eska TV
-rtmp://stream.smcloud.net/live/eskatv
-#EXTINF:-1 group-title="MÚSICA",ESKA Vox Music Tv
-rtmp://stream.smcloud.net/live/vox2/stream1
-#EXTINF:-1 group-title="MÚSICA",ESKA Music Wawa Wawa HD 720
-rtmp://stream.smcloud.net/live2/wawa/wawa_720p
-#EXTINF:-1 group-title="MÚSICA",Vox Olds Cool TV 720p
-rtmp://stream.smcloud.net/live2/vox/vox_720p
-#EXTINF:-1 group-title="MÚSICA",Vox Olds Cool TV 16:9
-rtmp://stream.smcloud.net/live2/vox/vox_360p
-#EXTINF:-1 group-title="MÚSICA",Vox Music Tv 2
-rtmp://stream.smcloud.net/live/vox2/stream1#plugin_player
-#EXTINF:-1 group-title="MÚSICA",Vox Music Tv
-rtmp://stream.smcloud.net/live/vox2/stream1
-#EXTINF:-1 group-title="MÚSICA",wawa tv
-rtmp://stream.smcloud.net/live2/wawa/wawa_360p
-#EXTINF:-1 group-title="MÚSICA",SPORTS MUSIC
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1 group-title="MÚSICA",Radio Italia TV
-rtmp://cwedge.cdcache.net/cwedge/rilive
-#EXTINF:-1 group-title="MÚSICA",Radio Montecarlo TV
-rtmp://fms.105.net:1935/live/rmc1
-#EXTINF:-1 group-title="MÚSICA",ROUGE TV France
-rtmp://rtmp.infomaniak.ch/livecast/rougetv
-#EXTINF:-1 group-title="MÚSICA",Si TV
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:-1 group-title="MÚSICA",Spain Kiss tv (Musica)
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:-1 group-title="MÚSICA",Gold Tv
-http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
-#EXTINF:-1 group-title="MÚSICA",Jim Tv
-http://apple.jim.stream.vmmacdn.be/hls/hls_high.m3u8
-#EXTINF:-1 group-title="MÚSICA",Juce Tv
-http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="MÚSICA",Nebiset Tv
-http://hls.nebiset.tv/nebiset.m3u8
-#EXTINF:-1 group-title="MÚSICA",Radio U Tv
-http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
-#EXTINF:-1 group-title="MÚSICA",Rusong Tv
-http://en356.edem.tv/iptv/ENNLFZ2ERL7KNC/120/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",Spirit Tv
-rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
-#EXTINF:-1 group-title="MÚSICA",Super Sonic Tv
-http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-#EXTINF:-1 group-title="MÚSICA",Energy Tv
-rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
-#EXTINF:-1 group-title="MÚSICA",Melody Channel
-rtmp://186.155.200.118:1935/live/MelodyChannel
-
-NOTICIAS
-#EXTINF:-1 group-title="NOTICIAS",FOX NEWS
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 group-title="NOTICIAS",AZTECA NOTICIAS
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_2_av-p.m3u8
-#EXTINF:-1 group-title="NOTICIAS",EURONEWS EN ESPAÑOL
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
-#EXTINF:-1 group-title="NOTICIAS",24 HRS SPAIN
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 group-title="NOTICIAS",TELESUR
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
-#EXTINF:-1 group-title="NOTICIAS",MILENIO TV FULLHD
-http://200.76.77.230/LIVE/H01/CANAL603/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="NOTICIAS",MILENIO TV
-http://200.76.77.230/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="NOTICIAS",BLOOMBERG FULLHD
-http://200.76.77.230/LIVE/H01/CANAL610/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="NOTICIAS",BLOOMBERG
-http://200.76.77.230/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 group-title="NOTICIAS",WOBI TV
-http://200.76.77.230/LIVE/H01/CANAL387/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
-
-
-
-
-RADIO
 
 #EXTINF:-1 group-title="RADIO",50\'s
 http://buecrplb01.cienradios.com.ar/50_32000.aac
@@ -2161,6 +1791,9 @@ http://www.spruto.tv/get_file/2/1b969ffaa67939ed8e9666127bf66c3e/89000/89983/899
 #EXTINF:-1 tvg-logo="",Los Juegos del Hambre 3 Sinsajo
 http://www.spruto.tv/get_file/2/d60293a7e0b2a63ee276877578a81c6a/100000/100906/100906.mp4
 
+#EXTINF:-1 tvg-logo="",Los Juegos del Hambre 3 Sinsajo PT 2
+http://www.spruto.tv/get_file/1/96472b2dfe625e27fea3df5687e33d92/172000/172525/172525.mp4
+
 #EXTINF:-1 tvg-logo="",Los mejores cortos de Pixar Vol. 1
 http://www.spruto.tv/get_file/7/dda0bb92902311a3e09562b4dda1f6f1/76000/76997/76997.mp4
 http://www.spruto.tv/get_file/2/79c5438e510dda5b41ed2404773c1149/106000/106212/106212.mp4
@@ -2627,6 +2260,9 @@ http://www.spruto.tv/get_file/5/47700d4f445f30801caf020b4ca4a549/146000/146191/1
 #EXTINF:-1 tvg-logo="",Un golpe de talento
 http://www.spruto.tv/get_file/1/33c9ff846b086894fff296005063e462/85000/85864/85864.mp4
 
+#EXTINF:-1 tvg-logo="",Un Gran dinosaurio
+http://www.spruto.tv/get_file/1/c5dc8d4d5a0113978873fd4465558822/165000/165649/165649.mp4?start=0
+
 #EXTINF:-1 tvg-logo="",Un papá con pocas pulgas
 http://www.spruto.tv/get_file/7/5f48d099b11fefe20056a82b60a9098d/77000/77005/77005.mp4
 
@@ -2728,6 +2364,8 @@ http://www.spruto.tv/get_file/7/367a22143a50a828f5728c170397bb14/78000/78208/782
 
 #EXTINF:-1,group-title="SERIES",The Simpsons FTA
 http://iptvnation.com/simpsons.mp4
+#EXTINF:-1, Los Simpsons (Espanol)
+http://iptvnation.com/simpsonslat.mp4
 #EXTINF:-1,South Park FTA
 http://iptvnation.com/southpark.mp4
 #EXTINF:-1,Family Guy FTA
